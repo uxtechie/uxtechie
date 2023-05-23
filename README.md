@@ -42,7 +42,7 @@
 * and to enjoy the luck of living in a **beautiful region** 🥘
 * next to **the Mediterranean Sea** ⛵😊
 
-These are the latest projects I've worked on:
+Latest projects I have worked on:
 
 * [Bit2me Crypto API](https://api.bit2me.com/)
 * [Bit2me Launchpad](https://wallet.bit2me.com/launchpad/projects)
