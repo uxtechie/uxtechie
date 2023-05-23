@@ -42,9 +42,7 @@
 * and to enjoy the luck of living in a **beautiful region** 🥘
 * next to **the Mediterranean Sea** ⛵😊
 
-Some projects:
+These are the latest projects I've worked on:
 
-https://api.bit2me.com/
-
-View in [Github Pages](https://api.bit2me.com/) or directly on [Github](https://api.bit2me.com/) 
-* [Your GitHub Pages URL and adding preview to your README.md](https://api.bit2me.com/)
+* [Bit2me Crypto API](https://api.bit2me.com/)
+* [Bit2me Launchpad](https://wallet.bit2me.com/launchpad/projects)
