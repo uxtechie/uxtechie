@@ -1,7 +1,5 @@
 ## 🧑‍💼💻 Senior Software Developer
 
-### 7 years of experience 
-
 ### Open Source ❤️ Lover
 
 ---
